@@ -1,8 +1,8 @@
-[![license](https://img.shields.io/github/license/cameronmathis/RepoTemplate)](LICENSE)
-[![CodeQL](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/RepoTemplate/actions/workflows/codeql-analysis.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate/badge)](https://www.codefactor.io/repository/github/cameronmathis/RepoTemplate)
+[![license](https://img.shields.io/github/license/cameronmathis/MaskingApi)](LICENSE)
+[![CodeQL](https://github.com/cameronmathis/MaskingApi/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cameronmathis/MaskingApi/actions/workflows/codeql-analysis.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/MaskingApi/badge)](https://www.codefactor.io/repository/github/cameronmathis/MaskingApi)
 
-# Repo Template
+# Masking API
 
 ## Table of contents
 
@@ -14,20 +14,21 @@
 
 ## General info
 
-This is a template I created to easily spin up new GitHub Repositories.
+This is a Node.js server that uses recursion to mask JSON objects.
 
 ## Setup
 
-In order to use this...
+In the project directory, you can run:
 
-## Software details
+### `npm start`
 
-Language:
+Runs the app on your local machine.\
+Make a PATCH call to [http://localhost:8080/] containing the JSON object you want masked.
 
 ## Status
 
-Version: </br>
-Project is: _in progress_
+Version: 1.0.0 </br>
+Project is: _finished_
 
 ## Contact
 
